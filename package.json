@@ -2,7 +2,7 @@
   "name": "fincity-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"",
+  "homepage":"https://github.com/kondurusiva/fincity_mother.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
